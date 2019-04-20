@@ -1,6 +1,8 @@
-# hello.py
+# Dianeshello.py
 
 def main():
-    print("Hello")
+    print("Hello World")
+
+print ("Its me Dianeslearning)
 
 main()    
